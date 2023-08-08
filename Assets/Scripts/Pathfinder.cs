@@ -40,7 +40,6 @@ public class Pathfinder : MonoBehaviour
                 _waypointIndex++;
             }
         }
-
         else
         {
             Destroy(gameObject);
